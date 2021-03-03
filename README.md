@@ -5,3 +5,6 @@ QR code scanning happens on the device and doesn't require a network connection.
 External Libraries: 
 *Dexter -> simplifies the process of requesting permissions at runtime.
 *cameraview -> library that makes capturing pictures and videos easy.
+# Screenshots
+![Screenshot_20210303_232704](https://user-images.githubusercontent.com/34891847/109850818-f0a1fe00-7c78-11eb-9904-312b0c4dc305.jpg)
+![Screenshot_20210303_232744](https://user-images.githubusercontent.com/34891847/109851136-53939500-7c79-11eb-83d3-34fe4416eb37.jpg)
